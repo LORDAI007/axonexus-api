@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+venv/
+
+# Logs / temp
+*.log
+logs/
+*.tmp
+.DS_Store
+
+# Build/docs opcionales
+dist/
+build/
+site/
