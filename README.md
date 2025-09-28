@@ -1,5 +1,5 @@
 # 🌐 Axonexus API v1 – Datos Soberanos en Tiempo Real
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Health Check](https://img.shields.io/endpoint?url=https%3A%2F%2Fmapa.axonexus.net%2Fv1%2Fhealth)](https://mapa.axonexus.net/v1/health)
 [![Made with FastAPI](https://img.shields.io/badge/Made%20with-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
