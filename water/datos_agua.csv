@@ -1,0 +1,16 @@
+fecha,rio,estacion,caudal_m3s,nivel_metros,temperatura_c
+2024-07-01,Rimac,Estacion A,22.4,0.86,15.9
+2024-07-02,Rimac,Estacion A,23.1,0.88,16.1
+2024-07-03,Rimac,Estacion A,24.0,0.90,16.3
+2024-07-04,Rimac,Estacion A,25.2,0.93,16.6
+2024-07-05,Rimac,Estacion A,23.7,0.89,16.0
+2024-07-01,Maranon,Estacion B,360.5,3.30,20.8
+2024-07-02,Maranon,Estacion B,372.1,3.42,21.0
+2024-07-03,Maranon,Estacion B,381.3,3.55,21.3
+2024-07-04,Maranon,Estacion B,369.8,3.41,21.1
+2024-07-05,Maranon,Estacion B,358.6,3.28,20.7
+2024-07-01,Chillon,Estacion C,12.4,0.57,16.9
+2024-07-02,Chillon,Estacion C,13.0,0.59,17.0
+2024-07-03,Chillon,Estacion C,14.2,0.62,17.3
+2024-07-04,Chillon,Estacion C,13.6,0.61,17.1
+2024-07-05,Chillon,Estacion C,12.9,0.58,16.8
