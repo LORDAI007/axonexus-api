@@ -108,7 +108,16 @@ Esto le da un aire **premium y pedagógico**, como si fuese documentación ofici
 ## 🚀 Próximos pasos
 
 - 🔑 Autenticación avanzada con JWT (además de API Key).  
-- 📊 Métricas en tiempo real (integración con Prometheus/Grafana).  
+- 📊 Métricas en tiempo real (integración con Prometheus/Grafana).
+
+---
+
+## 📖 Recursos
+
+- [🔄 Historial de cambios (CHANGELOG)](./CHANGELOG.md)
+- [⚡ Endpoints documentados](#endpoints)
+- [🧪 Ejemplos en cURL y Python](#-ejemplos-de-uso)
+
 - 📈 Dashboard interactivo con Plotly/Dash.  
 - 🌍 Despliegue multi-región (LatAm, Europa, EAU) para baja latencia.  
 - 🤖 Integración con modelos predictivos (IA para pronóstico de caudales y niveles).
