@@ -1,4 +1,6 @@
 # Axonexus API — Datos en tiempo real (v1)
+[![version](https://img.shields.io/github/v/release/LORDAI007/axonexus-api?sort=semver&display_name=tag)](https://github.com/LORDAI007/axonexus-api/releases)
+![license](https://img.shields.io/github/license/LORDAI007/axonexus-api)
 
 ![status](https://img.shields.io/badge/status-online-brightgreen)
 ![security](https://img.shields.io/badge/auth-API%20Key-blue)
