@@ -23,3 +23,40 @@ API soberana para exponer métricas en tiempo (casi) real, con puerta de enlace 
 
 ```http
 GET /v1/health
+
+## Ejemplos de uso
+
+### 🔹 cURL
+
+```bash
+# Verificar salud de la API
+curl -X GET "https://mapa.axonexus.net/v1/health"
+
+# Obtener todos los datos (requiere API Key)
+curl -H "X-API-Key: TU_API_KEY" -X GET "https://mapa.axonexus.net/v1/datos"
+
+# Obtener datos del río Rímac
+curl -H "X-API-Key: TU_API_KEY" -X GET "https://mapa.axonexus.net/v1/datos/rio/Rimac"
+
+# Últimos 5 registros
+curl -H "X-API-Key: TU_API_KEY" -X GET "https://mapa.axonexus.net/v1/datos/ultimos?limit=5"
+
+import requests
+
+# Verificar salud
+resp = requests.get("https://mapa.axonexus.net/v1/health")
+print(resp.json())
+
+# Obtener datos (con API Key)
+headers = {"X-API-Key": "TU_API_KEY"}
+resp = requests.get("https://mapa.axonexus.net/v1/datos", headers=headers)
+print(resp.json())
+
+# Obtener datos del río Rímac
+resp = requests.get("https://mapa.axonexus.net/v1/datos/rio/Rimac", headers=headers)
+print(resp.json())
+
+# Últimos 5 registros
+resp = requests.get("https://mapa.axonexus.net/v1/datos/ultimos?limit=5", headers=headers)
+print(resp.json())
+
